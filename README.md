@@ -39,3 +39,13 @@ Memory Usage: 14 MB, less than 11.77% of Python3 online submissions for Roman to
 
 [(code)](https://github.com/arleigh418/Happy-Leetcode/blob/master/Easy/13.Roman%20to%20Integer.py)
 [(img store)](https://github.com/arleigh418/Happy-Leetcode/blob/master/Easy/img/20200719_easy_13.png)
+
+### 14.Longest Common Prefix
+Refer solution : no
+
+Runtime: 28 ms, faster than 95.23% of Python3 online submissions for Longest Common Prefix.
+
+Memory Usage: 14.1 MB, less than 7.49% of Python3 online submissions for Longest Common Prefix.
+
+[(code)](https://github.com/arleigh418/Happy-Leetcode/blob/master/Easy/14.Longest%20Common%20Prefix.py)
+[(img store)](https://github.com/arleigh418/Happy-Leetcode/blob/master/Easy/img/20200801_easy_14.png)

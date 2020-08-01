@@ -33,15 +33,9 @@ class Solution:
                 check_all_same=0
             else :return result
         return result
-
-
-
-                    
-            
-
-x = Solution()
-print(x.longestCommonPrefix(["c","c"]))
-                
-
+'''
+Runtime: 28 ms, faster than 95.23% of Python3 online submissions for Longest Common Prefix.
+Memory Usage: 14.1 MB, less than 7.49% of Python3 online submissions for Longest Common Prefix.
+'''
             
         
